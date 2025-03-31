@@ -1,7 +1,8 @@
 # A Pioneer Study on Using ChatGPT with In-context Learning for Earthquake Detection
 
 ## Conference Publications
-- **Title**: A Pioneer Study on Using ChatGPT with In-context Learning for Earthquake Detection  
+- **Title**: A Pioneer Study on Using ChatGPT with In-context Learning for Earthquake Detection
+- **Session**: New trends in data acquisition, analysis and interpretation of seismicity  
 - **Authors**: Kuan-Lin Chu and Kuan-Yu Chen  
 - **Event**: Japan Geoscience Union Meeting (JPGU 2024)  
 - **Location**: Chiba, Japan  
