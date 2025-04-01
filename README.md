@@ -8,6 +8,8 @@
 - **Location**: Chiba, Japan  
 - **Date**: May 26-31, 2024  
 
+![圖片描述](JpGU2024_Certificate_of_Presentation.png)
+
 ## Overview
 Earthquakes are among the most costly natural disasters people have ever encountered, so earthquake prediction has become a very important and challenging task for humanity. Along with the research trend of using deep learning, the school of techniques has also been used to predict earthquakes by referring to feature vectors that are distilled from seismic waveforms. However, these methods usually require a large amount of labeled data for training. 
 
